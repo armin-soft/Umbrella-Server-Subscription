@@ -1,9 +1,5 @@
 vless://03fb8688-66d1-478a-9669-981a0be2646b@speedtest.org:8080?path=%2Fmelo&security=none&encryption=none&host=shad.ir.bot.digicyber.click&type=ws#%F0%9F%9B%B0%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A2%D9%85%D8%A8%D8%B1%D9%84%D8%A7%20%28%F0%9F%8C%90%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20-%20%F0%9F%9B%91%D9%85%D9%88%D9%82%D8%AA%29
-
 vless://03fb8688-66d1-478a-9669-981a0be2646b@tgju.org:8080?path=%2Fmelo&security=none&encryption=none&host=shad.ir.bot.digicyber.click&type=ws#%F0%9F%9B%B0%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A2%D9%85%D8%A8%D8%B1%D9%84%D8%A7%20%28%F0%9F%8C%90%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20-%20%F0%9F%9B%91%D9%85%D9%88%D9%82%D8%AA%29
-
 vless://03fb8688-66d1-478a-9669-981a0be2646b@mn.co:8080?path=%2Fmelo&security=none&encryption=none&host=shad.ir.bot.digicyber.click&type=ws#%F0%9F%9B%B0%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A2%D9%85%D8%A8%D8%B1%D9%84%D8%A7%20%28%F0%9F%8C%90%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20-%20%F0%9F%9B%91%D9%85%D9%88%D9%82%D8%AA%29
-
 vless://03fb8688-66d1-478a-9669-981a0be2646b@speedtest.net:80?path=%2Fmelo%2Fws%3Fed%3D2048&security=none&encryption=none&host=melodebot.net&type=ws#%F0%9F%9B%B0%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A2%D9%85%D8%A8%D8%B1%D9%84%D8%A7%20%28%F0%9F%8C%90%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20-%20%F0%9F%9B%91%D9%85%D9%88%D9%82%D8%AA%29
-
 vless://03fb8688-66d1-478a-9669-981a0be2646b@zmaoz.faculty.ucdavis.edu:80?path=%2Fmelo%2Fws%3Fed%3D2048&security=none&encryption=none&host=melodebot.net&type=ws#%F0%9F%9B%B0%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A2%D9%85%D8%A8%D8%B1%D9%84%D8%A7%20%28%F0%9F%8C%90%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20-%20%F0%9F%9B%91%D9%85%D9%88%D9%82%D8%AA%29
